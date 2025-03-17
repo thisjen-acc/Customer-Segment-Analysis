@@ -4,12 +4,13 @@
 ## Overview
 This project analyzes car sales data to uncover key trends, performance metrics, and actionable insights. Using **Excel**, I cleaned, processed, and visualized the data to understand sales performance, profitability, and customer preferences.
 
+
 ## Dataset
 The dataset includes the following attributes:
 
 | Column Name          | Description                                                                 |
 |----------------------|-----------------------------------------------------------------------------|
-| **Segment**          | The category of the car (e.g., SUV, Sedan, Hatchback).                      |
+| **Segment**          | The category of the customer (e.g.,Government,Small Business)|
 | **Country**          | The country where the car was sold.                                         |
 | **Product**          | The specific car model.                                                     |
 | **Discount Band**    | The discount category applied (e.g., Low, Medium, High).                    |
@@ -26,6 +27,23 @@ The dataset includes the following attributes:
 | **Month Name**       | The name of the month (e.g., January, February).                            |
 | **Year**             | The year of the sale.                                                       |
 
+## Tab sheets consists of: 
+
+| Sheets Name          |
+|----------------------|
+| **raw data**         | 
+| **cleaned data**          | 
+| **metrics**          | 
+| **Sumif analysis**    |
+| **sumifs analysis**       |
+| **countif anlaysis** |
+| **countifs anlaysis** |
+| **pivot tables** |
+| **vlookup sample** |
+|  **hlookup sample** |
+|  **xlookup sample** |
+|  **index match** |
+
 ## Tools Used
 - **Microsoft Excel**: For data cleaning, analysis, and visualization.
 
@@ -41,6 +59,7 @@ The dataset includes the following attributes:
 ## Steps to Reproduce
 1. **Data Cleaning**:
    - Removed duplicates and handled missing values.
+   - Trimming
    - Standardized column formats (e.g., dates, currency).
 
 2. **Data Analysis**:
@@ -48,11 +67,10 @@ The dataset includes the following attributes:
    - Grouped data by segment, country, and month to identify trends.
 
 3. **Data Visualization**:
-   - Created charts and graphs (e.g., bar charts, line graphs) to visualize sales trends, profitability, and segment performance.
    - Used conditional formatting to highlight key insights (e.g., top-performing products, high-profit margins).
 
 ## Key Insights
-- **Top-Performing Segment**: Identified the most profitable car segment (e.g., SUVs).
+- **Top-Performing Segment**: Identified the most profitable car segment (e.g., Paseo).
 - **Discount Strategy**: Discovered that higher discounts did not always lead to higher profits.
 - **Seasonal Trends**: Found that sales peaked during specific months (e.g., December).
 
