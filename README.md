@@ -31,18 +31,18 @@ The dataset includes the following attributes:
 
 | Sheets Name          |
 |----------------------|
-| **raw data**         | 
-| **cleaned data**          | 
-| **metrics**          | 
-| **Sumif analysis**    |
-| **sumifs analysis**       |
-| **countif anlaysis** |
-| **countifs anlaysis** |
-| **pivot tables** |
-| **vlookup sample** |
-|  **hlookup sample** |
-|  **xlookup sample** |
-|  **index match** |
+| **Raw Data**         | 
+| **Cleaned Data**          | 
+| **Metrics**          | 
+| **Sumif Analysis**    |
+| **Sumifs Analysis**       |
+| **Countif Analysis** |
+| **Countifs Analysis** |
+| **Pivot Tables** |
+| **Vlookup Sample** |
+| **Hlookup Sample** |
+| **Xlookup Sample** |
+| **Index Match** |
 
 ## Tools Used
 - **Microsoft Excel**: For data cleaning, analysis, and visualization.
